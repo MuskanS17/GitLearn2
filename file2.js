@@ -1,0 +1,1 @@
+console.log('Log1 for file2');
